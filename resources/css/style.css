@@ -1,0 +1,51 @@
+body{
+  text-align: center;
+}
+
+h1, a, h2, h3, p{
+  font-family: Helvetica;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p{
+  font-size: 14px;
+}
+
+a{
+  font-size: 18px;
+  color: white;
+}
+
+
+#top{
+  background-image: url("./images/background.png");
+}
+
+#design_location{
+  background-image: url("./images/background.png");
+  color: white;
+}
+
+#footer{
+  background-color: dimgray;
+}
+
+#footer p{
+  font-size: 11px;
+  color: white;
+}
