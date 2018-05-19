@@ -29,15 +29,15 @@ p{
 a{
   font-size: 18px;
   color: white;
+  font-weight: bold;
 }
 
-
 #top{
-  background-image: url("./images/background.png");
+  background-image: url("../images/background.png");
 }
 
 #design_location{
-  background-image: url("./images/background.png");
+  background-image: url("../images/background.png");
   color: white;
 }
 
@@ -48,4 +48,5 @@ a{
 #footer p{
   font-size: 11px;
   color: white;
+  text-align: left;
 }
